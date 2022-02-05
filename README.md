@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alan07sl
+- 👀 I’m interested in Software Architecture
+- 🌱 I’m currently learning Frontend Frameworks and bundlers
+- 📫 Reach me at alan07sl@gmail.com
